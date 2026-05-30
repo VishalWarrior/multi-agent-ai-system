@@ -27,3 +27,6 @@ python task9.py
 3. Researcher gathers info
 4. Writer generates response
 5. Validator checks quality
+
+
+Practicing GitHub workflow, branching, commits and pushes.
